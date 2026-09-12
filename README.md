@@ -11,7 +11,6 @@ This Python program is a simple Student Report Card Management System that allow
 • Accepts five subject names and marks for each student.
 • Calculates total and average marks automatically.
 • Assigns grades based on average performance.
-• Displays a formatted report card.
 • Beginner-friendly project demonstrating Python fundamentals.
 
 ## Concepts Used
