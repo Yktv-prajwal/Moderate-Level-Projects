@@ -30,9 +30,7 @@ for i in range(n):
         grade = "Fail"
 
     student.append([name, subs, marks, total, average, grade])
-
-print("\n---------- REPORT CARD ----------")
-
+
 for s in student:
     print("\nName :", s[0])
 
